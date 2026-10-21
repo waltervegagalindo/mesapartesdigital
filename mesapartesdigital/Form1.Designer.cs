@@ -50,7 +50,6 @@
             this.txtusuario.Name = "txtusuario";
             this.txtusuario.Size = new System.Drawing.Size(100, 20);
             this.txtusuario.TabIndex = 1;
-            this.txtusuario.Text = "escribe tu usuario";
             this.txtusuario.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // btningresar

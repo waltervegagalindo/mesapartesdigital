@@ -25,37 +25,24 @@ namespace mesapartesdigital
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            string usuario = txtusuario.Text;
+            string usuario = txtusuario.Text.Trim();
             string contrasena = txtcontraseña.Text;
 
-            // 2. Validar que no estén vacías
             if (usuario == "" || contrasena == "")
             {
-                MessageBox.Show("Faltan datos obligatorios");
+                MessageBox.Show("Ingrese su usuario y contraseña.");
+            }
+            else if (usuario == "admin" && contrasena == "1234")
+            {
+                MessageBox.Show("Inicio de sesión correcto.");
             }
             else
             {
-                // 3. Validar usuario y contraseña
-                if (usuario == "admin" && contrasena == "1234")
-                {
-                    MessageBox.Show("Bienvenido al sistema");
-
-                    // Abrir la ventana principal si existe
-                    // FrmMenuPrincipal ventana = new FrmMenuPrincipal();
-                    // ventana.Show();
-                    // this.Hide();
-                }
-                else
-                {
-                    MessageBox.Show("Usuario o contraseña incorrectos");
-
-                    // Limpiar las cajas
-                    txtusuario.Text = "";
-                    txtcontraseña.Text = "";
-                }
+                MessageBox.Show("Usuario o contraseña incorrectos.");
             }
-          }
-        
+
+        }
+
 
         private void txtcontraseña_TextChanged(object sender, EventArgs e)
         {
