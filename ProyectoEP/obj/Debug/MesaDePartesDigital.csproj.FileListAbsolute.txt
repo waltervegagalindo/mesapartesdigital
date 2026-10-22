@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\MesadePartesDigital.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\ProyectoEP.MesaDePartesDigital.resources
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\ProyectoEP.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\MesadePartesDigital.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\MesadePartesDigital.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\bin\Debug\ProyectoEP.exe.config
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\bin\Debug\ProyectoEP.exe
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\bin\Debug\ProyectoEP.pdb
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\ProyectoEP.exe
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\ProyectoEP.pdb
+C:\Users\ASUS\Desktop\ProyectoEP\ProyectoEP\ProyectoEP\obj\Debug\ProyectoEP.FrmPrincipal.resources
