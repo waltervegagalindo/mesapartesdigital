@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\bin\Debug\PARCIALPROYECTO.exe.config
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\bin\Debug\PARCIALPROYECTO.exe
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\bin\Debug\PARCIALPROYECTO.pdb
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.Form1.resources
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.exe
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.pdb
+C:\Users\ASUS\Desktop\Fundamentos Trabajo\PARCIALPROYECTO\PARCIALPROYECTO\obj\Debug\PARCIALPROYECTO.FrmPrincipal.resources
